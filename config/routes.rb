@@ -4,7 +4,8 @@ Rails.application.routes.draw do
   namespace :api do
     namespace :v1 do
       resources :roots
-      get '/message', to: 'messages#index'
+      # get '/message', to: 'messages#index'
+      root to: 'api/v1/roots#index'
     end
   end
 end
