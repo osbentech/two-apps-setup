@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby" height="auto" />
 
 <div align="center">
-  <h1><b>hello-rails-react</b></h1>
+  <h1><b>two-apps-setup</b></h1>
 </div>
 
 # 📗 Table of Contents
@@ -26,9 +26,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 hello-rails-react <a name="about-project"></a>
+# 📖 hello-rails <a name="about-project"></a>
 
-  hello-rails-react is an App that connects both react,redux and rails in one application
+  two-apps-setup is a back end web application that displays a random json greeting message. This message is displayed by the [FRONT END](https://github.com/osbentech/rail-react-frontend.git).
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -84,7 +84,7 @@ Clone this repository to your desired folder:
 ```sh
   cd my-prefered-folder
   
-  git clone https://github.com/osbentech/hello-rails-react.git
+  git clone https://github.com/osbentech/two-apps-setup.git
 ```
 
 ### Install
@@ -102,7 +102,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-  ./bin/dev
+  rails s
 ```
 
 ### Run tests
@@ -138,7 +138,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/osbentech/hello-rails-react.git/issues).
+Feel free to check the [issues page](https://github.com/osbentech/two-apps-setup.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
